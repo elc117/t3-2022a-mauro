@@ -14,3 +14,8 @@ Gerador de svg em Python
 largura e altura: são as dimensões da imagem  
 cor_1 e cor_2: são as cores da imagem  
 nome_do_arquivo: é o nome do arquivo de saída  
+
+* Por exemplo:
+###
+    python t3.py 500 500 black blue > temp.svg 
+###
